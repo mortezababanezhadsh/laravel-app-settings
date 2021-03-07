@@ -1,7 +1,7 @@
 {
   "name": "qcod/laravel-app-settings",
   "description": "A package with UI to store and manage all the settings for your application",
-  "homepage": "https://github.com/qcod/laravel-app-settings",
+  "homepage": "https://github.com/mortezababanezhadsh/laravel-app-settings",
   "type": "library",
   "license": "MIT",
   "keywords": [
