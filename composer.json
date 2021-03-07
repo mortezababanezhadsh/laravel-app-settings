@@ -2,6 +2,7 @@
   "name": "dadehpardaz/laravel-app-settings",
   "description": "A package with UI to store and manage all the settings for your application",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "homepage": "https://github.com/mortezababanezhadsh/laravel-app-settings",
   "type": "library",
   "license": "MIT",
