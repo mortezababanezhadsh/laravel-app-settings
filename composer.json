@@ -1,5 +1,5 @@
 {
-  "name": "qcod/laravel-app-settings",
+  "name": "dadehpardaz/laravel-app-settings",
   "description": "A package with UI to store and manage all the settings for your application",
   "homepage": "https://github.com/mortezababanezhadsh/laravel-app-settings",
   "type": "library",
@@ -23,7 +23,7 @@
   "require": {
     "php": "^7.2|^8.0",
     "laravel/framework": "~5.4.0|~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0|^8.0",
-    "mortezababanezhadsh/laravel-settings": "dev-master"
+    "dadehpardaz/laravel-settings": "dev-master"
   },
   "require-dev": {
     "orchestra/testbench": "^6.13",
@@ -43,12 +43,6 @@
       "QCod\\AppSettings\\Tests\\": "tests/"
     }
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/mortezababanezhadsh/laravel-settings"
-    }
-  ],
   "extra": {
     "laravel": {
       "providers": [
